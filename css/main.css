@@ -1,0 +1,18 @@
+/*
+Copyright (c) 2016 .
+------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Medix HTML Template
+Version:	1.1
+Last change:	
+Assigned to:	
+Primary use:	Medical, Hospitality 
+-------------------------------------------------------------------*/
+@import url("bootstrap.css");
+@import url("animate.css");
+@import url("owl.carousel.css");
+@import url("jquery.bxslider.css");
+@import url("font-awesome.css");
+@import url("flaticon.css");
+@import url("style.css");
